@@ -47,10 +47,7 @@ UINavigationControllerDelegate
 {
     [super didReceiveMemoryWarning];
 }
-- (UIStatusBarStyle)preferredStatusBarStyle
-{
-    return UIStatusBarStyleLightContent;
-}
+
 
 #pragma mark - UI
 - (void)addCollectionView
